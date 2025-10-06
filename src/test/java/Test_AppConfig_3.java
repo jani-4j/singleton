@@ -1,3 +1,7 @@
+import edu.io.AppConfig;
+import org.junit.jupiter.api.Assertions;
+import org.junit.jupiter.api.Test;
+
 public class Test_AppConfig_3 {
     /*
     @Test
